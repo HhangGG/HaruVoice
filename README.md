@@ -4,6 +4,8 @@
 
 Windows 本地离线语音输入工具，基于 [CapsWriter-Offline](https://github.com/HaujetZhao/CapsWriter-Offline) 定制。集成本地语音识别、可选的本地文字润色、统一热词管理、语音纠错和小猫状态提示。
 
+![哈鲁录音提示框：小猫、中文提示、录音时长、音量条与流动霓虹](haru-preview.png)
+
 [下载安装文件](https://github.com/HhangGG/HaruVoice/releases/latest) · [完整使用说明](USAGE.md) · [许可与组件来源](THIRD_PARTY_NOTICES.md)
 
 ## 下载与安装
